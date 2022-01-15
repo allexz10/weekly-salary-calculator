@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weekly-salary-calculator/static/css/main.ef1f5c06.chunk.css",
-    "main.js": "/weekly-salary-calculator/static/js/main.7e426496.chunk.js",
-    "main.js.map": "/weekly-salary-calculator/static/js/main.7e426496.chunk.js.map",
+    "main.js": "/weekly-salary-calculator/static/js/main.a553d0e7.chunk.js",
+    "main.js.map": "/weekly-salary-calculator/static/js/main.a553d0e7.chunk.js.map",
     "runtime-main.js": "/weekly-salary-calculator/static/js/runtime-main.2737ffaf.js",
     "runtime-main.js.map": "/weekly-salary-calculator/static/js/runtime-main.2737ffaf.js.map",
     "static/js/2.d57171c9.chunk.js": "/weekly-salary-calculator/static/js/2.d57171c9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2737ffaf.js",
     "static/js/2.d57171c9.chunk.js",
     "static/css/main.ef1f5c06.chunk.css",
-    "static/js/main.7e426496.chunk.js"
+    "static/js/main.a553d0e7.chunk.js"
   ]
 }
