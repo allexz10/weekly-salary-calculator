@@ -10,7 +10,7 @@ The App allows you to calculate the weekly wage, where the hourly rate is 10 eur
 
 ## Visit
 
-[`link`](https://allexz10.github.io/weekly-salary-calculator)
+`link` https://allexz10.github.io/weekly-salary-calculator
 
 ## About
 
