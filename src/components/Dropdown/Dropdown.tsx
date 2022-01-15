@@ -1,7 +1,6 @@
 /* eslint-disable no-restricted-globals */
 
 import React, { useState, useRef } from 'react';
-
 import './Dropdown.scss';
 
 type Props = {
