@@ -4,7 +4,7 @@
 
 This is a project I undertook to advance my skills using [React.ts](https://reactjs.org/) and other parts of its ecosystem. 
 
-The App allows you to calculate the weekly wage, where the hourly rate is 10 euros and overtime is 20 euros. In the list you need to select a specific employee, as well as the desired week. Data processing imitates request from backend
+The App allows you to calculate the weekly wage, where the hourly rate is 10 euros and overtime is 20 euros. In the list you need to select a specific employee, as well as the desired week. Data processing imitates request from server
 
 ![Header](https://github.com/allexz10/allexz10/blob/main/assets/salary-calc.gif)
 
