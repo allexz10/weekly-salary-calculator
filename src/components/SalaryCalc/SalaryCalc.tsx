@@ -29,7 +29,7 @@ const SalaryCalc: React.FC<Props> = ({ update }) => {
   const clickHandle = (
     e: React.ChangeEvent<HTMLInputElement>,
     index: number,
-  ):void => {
+  ): void => {
     const value = Number(e.target.value);
     const newData = [...data];
     newData[index].hours = value;
@@ -72,14 +72,16 @@ const SalaryCalc: React.FC<Props> = ({ update }) => {
                 className="input"
                 type="number"
                 min="0"
-                max="12"
+                max="24"
                 onKeyPress={(e) => {
                   if (!/[0-9]/.test(e.key)) {
                     e.preventDefault();
                   }
                 }}
                 onChange={(e) => {
-                  clickHandle(e, index);
+                  if (Number(e.target.value) <= 24) {
+                    clickHandle(e, index);
+                  }
                 }}
                 value={item.hours}
                 id={item.day}
@@ -112,11 +114,7 @@ const SalaryCalc: React.FC<Props> = ({ update }) => {
       </div>
 
       {loading ? (
-        <img
-          className="loading__image"
-          src="loading.gif"
-          alt="loading"
-        />
+        <img className="loading__image" src="loading.gif" alt="loading" />
       ) : (
         ''
       )}
