@@ -2,15 +2,16 @@ import './App.scss';
 import { useEffect, useState } from 'react';
 import Dropdown from './components/Dropdown/Dropdown';
 import SalaryCalc from './components/SalaryCalc/SalaryCalc';
-import weeksList from './data/weeksList';
+import getWeekList from './data/weekList';
 import employeeList, { pickRandomEmployee } from './data/employeeList';
 
 const employee = pickRandomEmployee(employeeList);
+const weekList = getWeekList();
 
 const App = () => {
   const [userData, setUserData] = useState({
     employee: employee[0],
-    weeks: weeksList[0],
+    weeks: weekList[0],
   });
   const [loading, setLoading] = useState(false);
 
@@ -35,7 +36,7 @@ const App = () => {
           label="Employee"
         />
         <Dropdown
-          option={weeksList}
+          option={weekList}
           value={userData.weeks}
           onChange={(value) => setUserData({ ...userData, weeks: value })}
           label="Week"
