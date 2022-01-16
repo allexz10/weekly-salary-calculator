@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weekly-salary-calculator/static/css/main.ef1f5c06.chunk.css",
-    "main.js": "/weekly-salary-calculator/static/js/main.2b98237d.chunk.js",
-    "main.js.map": "/weekly-salary-calculator/static/js/main.2b98237d.chunk.js.map",
-    "runtime-main.js": "/weekly-salary-calculator/static/js/runtime-main.2737ffaf.js",
-    "runtime-main.js.map": "/weekly-salary-calculator/static/js/runtime-main.2737ffaf.js.map",
-    "static/js/2.d57171c9.chunk.js": "/weekly-salary-calculator/static/js/2.d57171c9.chunk.js",
-    "static/js/2.d57171c9.chunk.js.map": "/weekly-salary-calculator/static/js/2.d57171c9.chunk.js.map",
-    "static/js/3.3a05b01a.chunk.js": "/weekly-salary-calculator/static/js/3.3a05b01a.chunk.js",
-    "static/js/3.3a05b01a.chunk.js.map": "/weekly-salary-calculator/static/js/3.3a05b01a.chunk.js.map",
+    "main.css": "/weekly-salary-calculator/static/css/main.60b62918.chunk.css",
+    "main.js": "/weekly-salary-calculator/static/js/main.fda2f826.chunk.js",
+    "main.js.map": "/weekly-salary-calculator/static/js/main.fda2f826.chunk.js.map",
+    "runtime-main.js": "/weekly-salary-calculator/static/js/runtime-main.b11b9a34.js",
+    "runtime-main.js.map": "/weekly-salary-calculator/static/js/runtime-main.b11b9a34.js.map",
+    "static/js/2.b9216055.chunk.js": "/weekly-salary-calculator/static/js/2.b9216055.chunk.js",
+    "static/js/2.b9216055.chunk.js.map": "/weekly-salary-calculator/static/js/2.b9216055.chunk.js.map",
+    "static/js/3.3c4926ac.chunk.js": "/weekly-salary-calculator/static/js/3.3c4926ac.chunk.js",
+    "static/js/3.3c4926ac.chunk.js.map": "/weekly-salary-calculator/static/js/3.3c4926ac.chunk.js.map",
     "index.html": "/weekly-salary-calculator/index.html",
-    "static/css/main.ef1f5c06.chunk.css.map": "/weekly-salary-calculator/static/css/main.ef1f5c06.chunk.css.map",
-    "static/js/2.d57171c9.chunk.js.LICENSE.txt": "/weekly-salary-calculator/static/js/2.d57171c9.chunk.js.LICENSE.txt"
+    "static/css/main.60b62918.chunk.css.map": "/weekly-salary-calculator/static/css/main.60b62918.chunk.css.map",
+    "static/js/2.b9216055.chunk.js.LICENSE.txt": "/weekly-salary-calculator/static/js/2.b9216055.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2737ffaf.js",
-    "static/js/2.d57171c9.chunk.js",
-    "static/css/main.ef1f5c06.chunk.css",
-    "static/js/main.2b98237d.chunk.js"
+    "static/js/runtime-main.b11b9a34.js",
+    "static/js/2.b9216055.chunk.js",
+    "static/css/main.60b62918.chunk.css",
+    "static/js/main.fda2f826.chunk.js"
   ]
 }
